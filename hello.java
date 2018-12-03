@@ -19,4 +19,14 @@ public class HelloWorld
       // Prints "Hello, World" in the terminal window.
       System.out.println("Hello, World");
    }
+<<<<<<< HEAD
 }
+
+------------------------
+------------------------
+{
+hello world
+}
+=======
+}  # eof
+>>>>>>> eb15631ea501a3f2a84fad3e51f657e02d2eb6ad
