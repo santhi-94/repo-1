@@ -1,15 +1,15 @@
 public class RecursionExample1 {  
-static void p(){  
-System.out.println("hello");  
+static void p(){ # by dir2 
+System.out.println("hello world");  
 p();  
 }   
 } 
 
  
 public static void main(String[] args) {  
-p();  
+p();  #by dir2
 }  
-}
+} 
 
 .................................
 .................................
