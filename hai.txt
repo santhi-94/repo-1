@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class RecursionExample1 {  
 static void p() { #  by dir3   
 System.out.println("hello"); #by dir3  
@@ -6,9 +7,15 @@ p();
 } 
 public static void main(String[] args) {  
 p();  #by dir3
+=======
+public class RecursionExample{
+static void p(){ # by dir2 
+System.out.println("hello world"); #by dir2   
+public static void main(String[] arg)
+p();  #by dir2
+>>>>>>> 3c9d85fe4d2736055f0a089df3f39efb9abdac95
 }  
-} #eof by dir3
-
+}
 .................................
 .................................
 
