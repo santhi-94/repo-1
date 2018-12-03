@@ -1,16 +1,10 @@
-public class RecursionExample1 {  
+public class RecursionExample{
 static void p(){ # by dir2 
-System.out.println("hello world");  
-p();  
-}   
-} 
-
- 
-public static void main(String[] args) {  
+System.out.println("hello world");    
+public static void main(String[] arg)
 p();  #by dir2
 }  
-} 
-
+}
 .................................
 .................................
 
