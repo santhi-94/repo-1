@@ -21,7 +21,8 @@ helllo
 =======
 
 
-
+# prime number 
+ --------------
 
 public class PrimeExample{    
  public static void main(String args[]){    
@@ -36,10 +37,7 @@ public class PrimeExample{
      System.out.println(n+" is not prime number");      
      flag=1;      
      break;      
-    }   
---------------------------
-------------------------------
----------------------------   
+    }      
    }      
    if(flag==0)  { System.out.println(n+" is prime number"); }  
   }//end of else  
